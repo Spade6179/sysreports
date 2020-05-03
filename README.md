@@ -21,3 +21,6 @@ RESEARCH.PY
 
 TEST_RESEARCH.PY  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The test script, which contains about a dozen tests (mostly unit)
+
+Of course, I am open to any feedback you may have about my progress!
+Let me know if you see any room for improvement.
